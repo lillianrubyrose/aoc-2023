@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"opus"
+	],
+	"copyright": "Copyright © 2023, opus",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "day9"
+}
